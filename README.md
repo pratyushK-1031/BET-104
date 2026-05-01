@@ -8,10 +8,7 @@ preceding amino acid.
 
 ## Visualization
 
-![density_plot](final/plot_for_arg_with_valid_runs.png)
-
-List of PDB files contributing to the computed angles:
-[`final/valid_pdbs.txt`](final/valid_pdbs.txt)
+<img width="3000" height="1800" alt="plot_for_arg_with_valid_runs" src="https://github.com/user-attachments/assets/2963e40c-c67a-4868-a110-0a15fefaefaf" />
 
 ## How to Execute
 
